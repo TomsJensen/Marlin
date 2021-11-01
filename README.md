@@ -1,9 +1,20 @@
-﻿# Marlin 3D Printer Firmware
+﻿## IMPORTANT!
+**THIS IS NOT THE FULL/ORIGINAL MARLIN FIRMWARE** :
+* Configuration samples folder was deleted
+* All changes in the default configuration files were marked with the label: "Customized DBP"
 
-[![Build Status](https://travis-ci.org/MarlinFirmware/Marlin.svg?branch=2.0.x)](https://travis-ci.org/MarlinFirmware/Marlin)
+Please visit www.danbp.org for more information
+<BR>
+<BR>
+<BR>
+
+
+# Marlin 3D Printer Firmware
+
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
 ![GitHub contributors](https://img.shields.io/github/contributors/marlinfirmware/marlin.svg)
 ![GitHub Release Date](https://img.shields.io/github/release-date/marlinfirmware/marlin.svg)
+[![Build Status](https://github.com/MarlinFirmware/Marlin/workflows/CI/badge.svg?branch=bugfix-2.0.x)](https://github.com/MarlinFirmware/Marlin/actions)
 
 <img align="right" width=175 src="buildroot/share/pixmaps/logo/marlin-250.png" />
 
